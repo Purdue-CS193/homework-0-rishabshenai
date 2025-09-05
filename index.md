@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+# Rishab Shenai's First CS193 Homework
+Here are things that I like about CS193
+- Only 1 credit :P
+- Instructors are fellow students, they know our struggles
+- What I learn in the course will be used everywhere. It will make me a better programmer.
+- No exams!!!
+
+I have kept the guide on the website for future reference.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
